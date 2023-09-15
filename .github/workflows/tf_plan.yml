@@ -84,4 +84,9 @@ jobs:
               owner: context.repo.owner,
               repo: context.repo.repo,
               body: output
+<<<<<<< HEAD
             })
+=======
+            })
+
+>>>>>>> 14cf5faf9657460b9be3daa5e320ad543e5a3c07
